@@ -1,0 +1,46 @@
+.ocpbw_product_image {
+    width: 50px;
+    display: inline-block;
+    float: left;
+    margin-right: 13px;
+}
+.ocpbw_product_title {
+    width: 76%;
+    display: inline-block;
+}
+.ocpbw_product_price {
+    width: 76%;
+    display: inline-block;
+}
+.ocpbw_div {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    border-top: 1px dotted #e5e5e5;
+    margin-bottom: 10px;
+}
+.ocpbw_each_item.ocpbw_each_curprod {
+    width: 95%;
+    display: inline-block;
+    float: left;
+    padding: 13px;
+    border-bottom: 1px dotted #e5e5e5;
+}
+.ocpbw_main {
+    display: inline-block;
+    width: 97%;
+    padding: 10px;
+    margin: 20px 0;
+    box-shadow: 0px 0px 15px #ccc;
+    transition: .5s;
+}
+.ocpbw_main:hover {
+    transform: translateY(10px);
+    box-shadow: 0px 0px 15px #5f5f5f;
+}
+.ocpbw_main p.top_bottom_text {
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    padding: 5px 0;
+}
